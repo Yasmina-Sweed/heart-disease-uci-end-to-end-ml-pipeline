@@ -1,0 +1,38 @@
+Logistic Regression:
+Accuracy: 0.8689
+Precision: 0.8333
+Recall: 0.8929
+F1-Score: 0.8621
+AUC: 0.9621
+
+Decision Tree:
+Accuracy: 0.7869
+Precision: 0.7419
+Recall: 0.8214
+F1-Score: 0.7797
+AUC: 0.7895
+
+Random Forest:
+Accuracy: 0.9016
+Precision: 0.8438
+Recall: 0.9643
+F1-Score: 0.9000
+AUC: 0.9437
+
+SVM:
+Accuracy: 0.9344
+Precision: 0.9000
+Recall: 0.9643
+F1-Score: 0.9310
+AUC: 0.9762
+
+Adjusted Rand Index (KMeans): 0.2139
+Confusion Matrix (KMeans vs Actual):
+[[ 40 124]
+ [ 98  41]]
+
+Adjusted Rand Index (Hierarchical): 0.1897
+Confusion Matrix (Hierarchical vs Actual):
+[[  0  26 138]
+ [  0  80  59]
+ [  0   0   0]]
